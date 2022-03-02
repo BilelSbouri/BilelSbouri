@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BilelSbouri
-- 👀 I’m interested in mobile application developement and data science
-- 🌱 I’m currently in Data Science Master degree
+- 👀 I’m interested in Business Intelligence Projects
+- 🌱 I’m currently in Business Intelligence Master degree
 - 📫 sbouribilel@gmail.com
 
 
